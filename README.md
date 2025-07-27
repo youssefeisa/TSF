@@ -61,7 +61,7 @@ Prophet
 2. Install dependencies (preferably in a virtual environment):
 
 ```bash
-pip install pandas numpy matplotlib seaborn pmdarima statsmodels
+pip install pandas numpy matplotlib seaborn Prophet
 ```
 
 3. Run `TSF_For_Avocado.ipynb` in Jupyter Notebook or VS Code.
